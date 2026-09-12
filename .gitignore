@@ -1,0 +1,48 @@
+# Environment & Secrets
+.env
+.env.local
+*.env
+
+# Dependencies & Virtual Environments
+venv/
+env/
+.venv/
+node_modules/
+identity-aegis-ai/
+
+# Python cache & artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+
+# Frontend Build & Dependencies
+frontend/dist/
+frontend/node_modules/
+.eslintcache
+
+# IDE & System Files
+.idea/
+.vscode/
+*.sw?
+.DS_Store
+Thumbs.db
+
+# Exclude personal documents, academic PDFs, lab files & binaries in root
+*.pdf
+*.docx
+*.pptx
+*.exe
+*.ms14*
+*.jpg
+*.jpeg
+*.avif
+_temp_*
+tejas.py
+/fa*.png
+/ha*.png
+/full_adder_org.png
+/NotebookLM*.png

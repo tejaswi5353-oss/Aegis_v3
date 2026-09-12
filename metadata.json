@@ -1,0 +1,8 @@
+{
+  "name": "AegisAI — Prompt Injection Detector",
+  "description": "Two-Tier Prompt Injection Detector for SOC Analysts & AI Engineers",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
